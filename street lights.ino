@@ -1,8 +1,8 @@
-const int trigPin = 9;
-const int echoPin = 10;
-int ledPin1 =3;
-int ledPin2 =5;
-int ledPin3 =6;
+const int trigPin = 3;
+const int echoPin = 2;
+int ledPin1 =9;
+int ledPin2 =10;
+int ledPin3 =11;
 
 long duration;
 int distance;
